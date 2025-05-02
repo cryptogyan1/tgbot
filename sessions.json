@@ -1,0 +1,48 @@
+{
+  "sessions": [
+    {
+      "id": "6244116483",
+      "data": {
+        "bulkQuestions": [
+          "I love you",
+          "Te amo",
+          "Je t'aime",
+          "Ich liebe dich",
+          "Ti amo",
+          "Eu te amo",
+          "Aishiteru",
+          "Saranghae",
+          "Main tumse pyaar karta hoon",
+          "Wo ai ni"
+        ],
+        "bulkTotal": 10,
+        "collecting": false,
+        "stopBulk": false,
+        "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtaXNocmFvMjI5QGdtYWlsLmNvbSJ9.3iOKvyMvFRQ8jFuUMoZ8Df-8FkIuI9alLVbrdO06xeA",
+        "selectedModel": "melo_tts"
+      }
+    },
+    {
+      "id": "8012388391",
+      "data": {
+        "bulkQuestions": [],
+        "bulkTotal": 62,
+        "collecting": false,
+        "stopBulk": true,
+        "selectedModel": "melo_tts",
+        "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzaW5naGFuYW5kMzAyNzNAZ21haWwuY29tIn0.wsc9OccMPpTpsHTrqK3HNrfaOQGdaQjyf-XEiPN-rNg"
+      }
+    },
+    {
+      "id": "482760286",
+      "data": {
+        "bulkQuestions": [],
+        "bulkTotal": 0,
+        "collecting": true,
+        "stopBulk": false,
+        "selectedModel": "SD1.5",
+        "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjcnlwdG9sb3Zlcjk2NUBnbWFpbC5jb20iLCJpYXQiOjE3NDExODUyMTl9.tz9I1rlUgktytn73ODjoSJ_e8mUCTKL-30EjcFmJAKU"
+      }
+    }
+  ]
+}
